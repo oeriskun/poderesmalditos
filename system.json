@@ -1,0 +1,19 @@
+{
+    "id": "poderesmalditos",
+    "title": "Poderes Malditos",
+    "description": "Implementación no oficial del sistema Poderes Malditos para Foundry VTT",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "10",
+      "maximum": "10"
+    },
+    "authors": [
+      {
+        "name": "Oeris",
+        "url": "https://github.com/oeriskun/poderesmalditos"
+      }
+    ],
+    "esmodules": ["module/esmodule.js"],
+    "styles": ["css/styles.css"]
+  }
