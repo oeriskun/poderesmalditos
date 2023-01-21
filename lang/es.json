@@ -1,0 +1,17 @@
+{
+  "PODERESMALDITOS.AbilityP": "Pena",
+  "PODERESMALDITOS.AbilityA": "Amor",
+  "PODERESMALDITOS.AbilityO": "Odio",
+  "PODERESMALDITOS.AbilityI": "Ira",
+  "PODERESMALDITOS.AbilityM": "Miedo",
+
+  "PODERESMALDITOS.AbilityPCatarsis": "Físico",
+  "PODERESMALDITOS.AbilityACatarsis": "Violento",
+  "PODERESMALDITOS.AbilityOCatarsis": "Social",
+  "PODERESMALDITOS.AbilityICatarsis": "Mental",
+  "PODERESMALDITOS.AbilityMCatarsis": "Resistencia",
+
+  "PODERESMALDITOS.StrenghtHp": "Salud",
+  "PODERESMALDITOS.StrenghtSp": "Cordura",
+  "PODERESMALDITOS.StrenghtWp": "Voluntad"
+}

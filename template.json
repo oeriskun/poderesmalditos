@@ -1,0 +1,73 @@
+{
+    "Actor": {
+        "types": [
+            "character"
+        ],
+        "templates": {
+            "common": {
+                "abilities": {
+                    "p": {
+                        "dice": "d4",
+                        "value": 0,
+                        "max": 14,
+                        "feature_checks": 0,
+                        "feature_max": 5
+                    },
+                    "a": {
+                        "dice": "d6",
+                        "value": 0,
+                        "max": 14,
+                        "feature_checks": 0,
+                        "feature_max": 5
+                    },
+                    "o": {
+                        "dice": "d8",
+                        "value": 0,
+                        "max": 14,
+                        "feature_checks": 0,
+                        "feature_max": 5
+                    },
+                    "i": {
+                        "dice": "d10",
+                        "value": 0,
+                        "max": 14,
+                        "feature_checks": 0,
+                        "feature_max": 3
+                    },
+                    "m": {
+                        "dice": "d12",
+                        "value": 0,
+                        "max": 14,
+                        "feature_checks": 0,
+                        "feature_max": 5
+                    }
+                },
+                "strengths": {
+                    "hp": {
+                        "value": 0,
+                        "min": 0,
+                        "max": 0
+                    },
+                    "sp": {
+                        "value": 0,
+                        "min": 0,
+                        "max": 0
+                    },
+                    "wp": {
+                        "value": 0,
+                        "min": 0,
+                        "max": 0
+                    }
+
+                }
+            }
+        },
+        "character": {
+            "templates": ["common"],
+            "name": "",
+            "alter_ego": "",
+            "superpower": "",
+            "biography": "",
+        }
+    }
+}

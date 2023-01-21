@@ -15,5 +15,22 @@
       }
     ],
     "esmodules": ["module/esmodule.js"],
-    "styles": ["css/styles.css"]
+    "styles": ["css/styles.css"],
+    "languages": [
+      {
+        "lang": "es",
+        "name": "Spanish",
+        "path": "lang/es.json"
+      }
+    ],
+    "gridDistance": 2,
+    "gridUnits": "m",
+    "primaryTokenAttribute": null,
+    "secondaryTokenAttribute": null,
+    "url": "https://github.com/oeriskun/poderesmalditos/",
+    "manifest": "https://raw.githubusercontent.com/oeriskun/poderesmalditos/master/system.json",
+    "download": "https://github.com/oeriskun/poderesmalditos/archive/refs/heads/master.zip",
+    "readme": "README.md",
+    "license": "LICENSE.txt",
+    "changelog": "CHANGELOG.md"
   }
